@@ -1,13 +1,14 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "kristinariemer.github.io"
+  title: "Kristina Riemer"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - projects.qmd
 
 format:
   html:
