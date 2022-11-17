@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Training",
+    "section": "",
+    "text": "Come back soon to see the different workshops and courses I’ve been teaching!"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Portfolio",
+    "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "Come back soon to check out the different scientific projects and software products I’ve been working on!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello!",
     "section": "",
-    "text": "brief blurb about my professional and personal interests"
+    "text": "Kristina Riemer is a data scientist, educator, and ecologist. She combines these roles to enable scientific researchers to do their science easier, faster, and more accurately. Kristina also likes to trail run, read fantasy novels, and go to rock shows."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hello!",
+    "section": "Experience",
+    "text": "Experience\nScientific Programmer | University of Arizona, CCT Data Science Team | January 2019 - present"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hello!",
+    "section": "Education",
+    "text": "Education\nUniversity of Florida | Gainesville, FL PhD in Wildlife, Ecology, and Conservation | 2013 - 2019\nLawrence University | Appleton, WI B.A. in Biology | 2008 - 2012"
   }
 ]

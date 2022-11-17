@@ -1,9 +1,30 @@
 ---
 title: "Hello!"
 about: 
-  template: jolla
+  template: trestles
+  image: headshot.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/KristinaRiemer
+    - icon: github
+      text: Github
+      href: https://github.com/KristinaRiemer
+    - icon: envelope
+      text: Email
+      url: "mailto:kristina.p.riemer@gmail.com"
 ---
 
-brief blurb about my professional and personal interests
+Kristina Riemer is a data scientist, educator, and ecologist. She combines these roles to enable scientific researchers to do their science easier, faster, and more accurately. Kristina also likes to trail run, read fantasy novels, and go to rock shows. 
 
+## Experience
 
+**Scientific Programmer** | University of Arizona, CCT Data Science Team | January 2019 - present
+
+## Education
+
+University of Florida | Gainesville, FL
+PhD in Wildlife, Ecology, and Conservation | 2013 - 2019
+
+Lawrence University | Appleton, WI
+B.A. in Biology | 2008 - 2012

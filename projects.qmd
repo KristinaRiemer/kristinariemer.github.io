@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "Projects"
 ---
 
-About this site
+Come back soon to check out the different scientific projects and software products I've been working on! 
