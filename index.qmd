@@ -15,7 +15,7 @@ about:
       url: "mailto:kristina.p.riemer@gmail.com"
 ---
 
-Kristina Riemer is a **data scientist, educator, and ecologist**. She combines these roles to help researchers do their work easier, faster, and more accurately. 
+Kristina Riemer is a **data scientist, educator, project manager, and ecologist**. She combines these roles to help researchers do their work easier, faster, and more accurately. 
 
 Kristina has extensive experience **facilitating interdisciplinary collaborations** between domain experts and tech folks. Her abilities to build community among people is demonstrated by her event planning and outreach skills. She considers herself a **people connector**, which is a crucial role in STEM. 
 
