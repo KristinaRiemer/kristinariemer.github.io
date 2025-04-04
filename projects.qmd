@@ -2,4 +2,28 @@
 title: "Projects"
 ---
 
-Come back soon to check out the different scientific projects and software products I've been working on! 
+Managed the following project collaborations: 
+
+- Updates to the R package `rnpn`, which provides phenology data, to enable its submission to rOpenSci for peer review ([code](https://github.com/usa-npn/rnpn))
+- Development of an R Shiny app to visualize environmental sensor data on the University of Arizona campus for the Green Stormwater Infrastructure project ([app](https://viz.datascience.arizona.edu/gsi-dashboard/), [code](https://github.com/UArizonaGSICampusLivingLab/gsi-dashboard), [project page](https://datascience.cct.arizona.edu/green-stormwater-infrastructure))
+- Migration of red squirrel data from Access and ArcGIS Online to SQL database, with automated integration of newly collected data from Survey123 form ([code](https://github.com/Chris-Schnaufer/agol2mysql))
+- Dashboard made using R Shiny to dynamically visualize Statewide Needs Assessment survey results ([code](https://github.com/cred-norton-uarizona/uace-needs-assessment), [project page](https://datascience.cct.arizona.edu/statewide-needs-assessment-dashboard))
+- Second phase of development of R package `volcalc`, which automates calculation of volatility for thousands of chemical compounds ([code](https://github.com/Meredith-Lab/volcalc), [project page](https://datascience.cct.arizona.edu/volcalc-volatility-calculator))
+- Improvements to desktop Java app SPARCd, for tagging and organizing wildlife camera trap images, and development of new web app version ([desktop app code](https://github.com/CulverLab/sparcd), [web app code](https://github.com/Chris-Schnaufer/sparcd-web), [project page](https://datascience.cct.arizona.edu/sparcd))
+- Analysis and visualization of trends in growing degree days in northeastern USA ([code](https://github.com/usa-npn/cales-thermal-calendars), [project page](https://datascience.cct.arizona.edu/estimating-trends-phenology))
+- Tools to access annual measurements of trees in Forest Inventory and Analysis dataset ([data access code](https://github.com/mekevans/forestTIME), [database code](https://github.com/mekevans/forestTIME-builder), [project page](https://datascience.cct.arizona.edu/foresttime))
+- Analytical pipeline to get and compare multiple biomass datasets in Arizona ([code](https://github.com/EcosystemEcologyLab/SW_Biomass), [project page](https://datascience.cct.arizona.edu/estimating-uncertainty-carbon-stores))
+- Development of LLM pipeline to annotate rangeland research papers ([project page](https://datascience.cct.arizona.edu/rangedocs-aiml))
+
+
+Created the following products: 
+
+- R Shiny dashboard to visualize standardized fish data and allow users to upload their own data to compare ([app](https://viz.datascience.arizona.edu/afs-standard-fish-data/), [code](https://github.com/cct-datascience/AFS_database_code), [project page](https://datascience.cct.arizona.edu/afs-standard-fish-app))
+- R package `volcalc` to automate calculation of volatility for thousands of chemical compounds ([code](https://github.com/Meredith-Lab/volcalc), [project page](https://datascience.cct.arizona.edu/volcalc-volatility-calculator))
+- Machine learning model to classify rangeland research papers with relevant terms ([code](https://bitbucket.org/cals-cct/docs-classification-model/src/main/), [project page](https://datascience.cct.arizona.edu/rangedocs))
+- Cleaned and visualized ecological data for GenoPhenoEnvo project ([code](https://github.com/genophenoenvo/neon-datasets), [project page](https://datascience.cct.arizona.edu/genophenoenvo))
+- Plant growth and productivity model with varying trait values for the SENTINEL project ([code](https://github.com/cct-datascience/model-vignettes), [project page](https://datascience.cct.arizona.edu/sentinel-phytosensors))
+- Harmonized crop dataset to contribute to Agricultural Research Data Network ([code](https://github.com/cct-datascience/ardn-terra-ref/), [project page](https://datascience.cct.arizona.edu/agricultural-research-data-network))
+- Data analysis and visualization of relationship between animal mass and environmental temperature ([code](https://github.com/KristinaRiemer/MassResponseToTemp))
+- Data analysis and visualization of relationship between mass and lagged temperature ([code](https://github.com/KristinaRiemer/MassResponseToTemp))
+- Comparison of different types of bee phenology data ([code](https://github.com/KristinaRiemer/bee_phenology))

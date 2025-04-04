@@ -1,0 +1,9 @@
+---
+title: "Community"
+---
+
+Kristina has been a leader in multiple communities, bringing together people and ideas. 
+
+- Co-led the [Women in Data Science Tucson conference](https://wids-tucson.github.io/) in 2024 and 2025, and had organizing roles in the inception of the event in 2019
+- Organized [Drone Day](https://drones.arizona.edu/events/drone-day-2025) in Tucson in 2023, 2024, and 2025
+- Helped organize the annual conference for the [US-RSE organization](https://us-rse.org/), as the communications co-chair in 2024 and sponsorship co-chair in 2025

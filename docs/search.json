@@ -1,37 +1,44 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Making better research software",
+    "section": "",
+    "text": "Kristina Riemer is a data scientist, educator, and ecologist. She combines these roles to help researchers do their work easier, faster, and more accurately.\nKristina has extensive experience facilitating interdisciplinary collaborations between domain experts and tech folks. Her abilities to build community among people is demonstrated by her event planning and outreach skills. She considers herself a people connector, which is a crucial role in STEM.\nKristina’s current expertise and role are built from a strong foundation in using and teaching computational tools, especially R and git/GitHub. She is excellent at quickly learning new technical skills as needed, and strives to be open-minded, curious, and aware of the impacts of new technologies.\nShe is additionally adept at managing a team, currently of research software engineers. She has implemented successful project planning processes with GitHub project boards and collaborator check-in meetings. She manages the day-to-day work of the group with an agile approach. She also sustains the group with grant funding from various sources and manages the budget effectively.\nView Kristina’s resume for more details."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Making better research software",
+    "section": "Experience",
+    "text": "Experience\nDirector of Data Science | University of Arizona, Communications & Cyber Technologies Data Science Team | January 2023 - present\nScientific Programmer | University of Arizona, CCT Data Science Team | January 2019 - January 2023"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Making better research software",
+    "section": "Education",
+    "text": "Education\nUniversity of Florida | Gainesville, FL\nPhD in Wildlife, Ecology, & Conservation | 2013 - 2019\nLawrence University | Appleton, WI\nB.A. in Biology | 2008 - 2012"
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community",
+    "section": "",
+    "text": "Kristina has been a leader in multiple communities, bringing together people and ideas.\n\nCo-led the Women in Data Science Tucson conference in 2024 and 2025, and had organizing roles in the inception of the event in 2019\nOrganized Drone Day in Tucson in 2023, 2024, and 2025\nHelped organize the annual conference for the US-RSE organization, as the communications co-chair in 2024 and sponsorship co-chair in 2025"
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Training",
     "section": "",
-    "text": "Come back soon to see the different workshops and courses I’ve been teaching!"
+    "text": "Kristina has deep expertise and pedagogical knowledge of how to teach researchers on the use of computational tools, including programming. She became a trained instructor through The Carpentries in 2016, and has taught the following workshops and courses:\n\nR Programming: Data Analysis & Visualization workshop, University of South Florida, March 2025, workshop page\nR Programming: An Introduction workshop, University of South Florida, March 2025, workshop page\nR Programming: Data Analysis & Visualization workshop, University of South Florida, October 2024, workshop page\nR Programming: An Introduction workshop, University of South Florida, October 2024, workshop page\nExploring The Wide World of ggplot2 Extensions workshop, University of Arizona, June 2024, workshop page\nCustomizable Resumes with R Tools workshop, University of Arizona, February 2024, workshop page\nMaking professional websites with Quarto & RStudio workshop, University of Arizona, August 2023, workshop page\nExploring the wide world of ‘ggplot2’ extensions workshop, University of Arizona, June 2023, workshop page\nBasics of regex workshop, Research Bazaar Arizona, April 2023, workshop page\nBasics of regex: how to extract information from text with regular expressions workshop, University of Arizona, February 2023, workshop page\nReproducibility and Data Science in R workshop series, University of Arizona, fall 2022, series webpage\nPrinciples of Tidy Data & Data Management workshop, University of Arizona, June 2022, workshop page\nReproducibility and Data Science Skills workshop series, University of Arizona, spring 2022, series webpage\nPublishing Reports Using R and R Markdown workshop, University of Arizona, October 2021, workshop page\nCarpentries workshop, USDA, April 2021, https://adityabandla.github.io/2021-04-27-usda-online/\nUsing TERRA REF high throughput, sensor-collected plant data with R workshop, University of Arizona, April 2021, workshop page\nGetting started with NEON data workshop, University of Arizona, March 2021, workshop page\nPractical advice for leveling up open science skills workshop, Sefari HPC, March 2021, workshop page\nCarpentries workshop, University of Arizona, February 2019, workshop page\nCarpentries workshop, University of Florida, October 2018, workshop page\nCarpentries workshop, University of Florida, August 2018, workshop page\nCarpentries workshop, University of Florida, March 2018, workshop page\nCarpentries workshop, University of Florida, January 2018, workshop page\nData Carpentries for Biologists course, University of Florida, August 2017 - December 2017, course website\nCarpentries workshop, Lawrence Berkeley National Laboratory, August 2017, workshop page\nCarpentries workshop, Columbia University, September 2016, workshop page\nCarpentries workshop, University of Florida, August 2016, workshop page\nCarpentries workshop, University of North Carolina-Chapel Hill, April 2016, workshop page"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Come back soon to check out the different scientific projects and software products I’ve been working on!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello!",
-    "section": "",
-    "text": "Kristina Riemer is a data scientist, educator, and ecologist. She combines these roles to enable scientific researchers to do their science easier, faster, and more accurately. Kristina also likes to trail run, read fantasy novels, and go to rock shows."
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Hello!",
-    "section": "Experience",
-    "text": "Experience\nScientific Programmer | University of Arizona, CCT Data Science Team | January 2019 - present"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Hello!",
-    "section": "Education",
-    "text": "Education\nUniversity of Florida | Gainesville, FL PhD in Wildlife, Ecology, and Conservation | 2013 - 2019\nLawrence University | Appleton, WI B.A. in Biology | 2008 - 2012"
+    "text": "Managed the following project collaborations:\n\nUpdates to the R package rnpn, which provides phenology data, to enable its submission to rOpenSci for peer review (code)\nDevelopment of an R Shiny app to visualize environmental sensor data on the University of Arizona campus for the Green Stormwater Infrastructure project (app, code, project page)\nMigration of red squirrel data from Access and ArcGIS Online to SQL database, with automated integration of newly collected data from Survey123 form (code)\nDashboard made using R Shiny to dynamically visualize Statewide Needs Assessment survey results (code, project page)\nSecond phase of development of R package volcalc, which automates calculation of volatility for thousands of chemical compounds (code, project page)\nImprovements to desktop Java app SPARCd, for tagging and organizing wildlife camera trap images, and development of new web app version (desktop app code, web app code, project page)\nAnalysis and visualization of trends in growing degree days in northeastern USA (code, project page)\nTools to access annual measurements of trees in Forest Inventory and Analysis dataset (data access code, database code, project page)\nAnalytical pipeline to get and compare multiple biomass datasets in Arizona (code, project page)\nDevelopment of LLM pipeline to annotate rangeland research papers (project page)\n\nCreated the following products:\n\nR Shiny dashboard to visualize standardized fish data and allow users to upload their own data to compare (app, code, project page)\nR package volcalc to automate calculation of volatility for thousands of chemical compounds (code, project page)\nMachine learning model to classify rangeland research papers with relevant terms (code, project page)\nCleaned and visualized ecological data for GenoPhenoEnvo project (code, project page)\nPlant growth and productivity model with varying trait values for the SENTINEL project (code, project page)\nHarmonized crop dataset to contribute to Agricultural Research Data Network (code, project page)\nData analysis and visualization of relationship between animal mass and environmental temperature (code)\nData analysis and visualization of relationship between mass and lagged temperature (code)\nComparison of different types of bee phenology data (code)"
   }
 ]

@@ -2,4 +2,33 @@
 title: "Training"
 ---
 
-Come back soon to see the different workshops and courses I've been teaching! 
+Kristina has deep expertise and pedagogical knowledge of how to teach researchers on the use of computational tools, including programming. She became a trained instructor through [The Carpentries]() in 2016, and has taught the following workshops and courses: 
+
+- R Programming: Data Analysis & Visualization workshop, University of South Florida, March 2025, [workshop page](https://calendar.lib.usf.edu/event/14093763)
+- R Programming: An Introduction workshop, University of South Florida, March 2025, [workshop page](https://calendar.lib.usf.edu/event/14093696)
+- R Programming: Data Analysis & Visualization workshop, University of South Florida, October 2024, [workshop page](https://calendar.lib.usf.edu/event/13035889)
+- R Programming: An Introduction workshop, University of South Florida, October 2024, [workshop page](https://calendar.lib.usf.edu/event/12998376)
+- Exploring The Wide World of ggplot2 Extensions workshop, University of Arizona, June 2024, [workshop page](https://datascience.cct.arizona.edu/events/leveling-your-data-visualization-skills-ggplot2-iii-exploring-wide-world-ggplot2-extensions)
+- Customizable Resumes with R Tools workshop, University of Arizona, February 2024, [workshop page](https://datascience.cct.arizona.edu/events/233-customizable-resumes-r-tools)
+- Making professional websites with Quarto & RStudio workshop, University of Arizona, August 2023, [workshop page](https://datascience.cct.arizona.edu/events/208-making-professional-websites-quarto-rstudio)
+- Exploring the wide world of 'ggplot2' extensions workshop, University of Arizona, June 2023, [workshop page](https://datascience.cct.arizona.edu/events/202-part-3-exploring-wide-world-ggplot2-extensions)
+- Basics of regex workshop, Research Bazaar Arizona, April 2023, [workshop page](https://datascience.cct.arizona.edu/events/199-basics-regex-resbaz-az-2023)
+- Basics of regex: how to extract information from text with regular expressions workshop, University of Arizona, February 2023, [workshop page](https://datascience.cct.arizona.edu/events/194-basics-regex-how-extract-information-text-regular-expressions)
+- Reproducibility and Data Science in R workshop series, University of Arizona, fall 2022, [series webpage](https://datascience.cct.arizona.edu/events/195-fall-2022-workshop-series-reproducibility-and-data-science-r)
+- Principles of Tidy Data & Data Management workshop, University of Arizona, June 2022, [workshop page](https://datascience.cct.arizona.edu/events/174-principles-tidy-data-data-management)
+- Reproducibility and Data Science Skills workshop series, University of Arizona, spring 2022, [series webpage](https://datascience.cct.arizona.edu/events/196-spring-2022-workshop-series-reproducibility-and-data-science-skills)
+- Publishing Reports Using R and R Markdown workshop, University of Arizona, October 2021, [workshop page](https://datascience.cct.arizona.edu/events/180-publishing-reports-using-r-and-r-markdown)
+- Carpentries workshop, USDA, April 2021, https://adityabandla.github.io/2021-04-27-usda-online/
+- Using TERRA REF high throughput, sensor-collected plant data with R workshop, University of Arizona, April 2021, [workshop page](https://datascience.cct.arizona.edu/events/190-using-terra-ref-high-throughput-sensor-collected-plant-data-r)
+- Getting started with NEON data workshop, University of Arizona, March 2021, [workshop page](https://datascience.cct.arizona.edu/events/184-getting-started-neon-data)
+- Practical advice for leveling up open science skills workshop, Sefari HPC, March 2021, [workshop page](https://datascience.cct.arizona.edu/events/191-practical-advice-leveling-open-science-skills)
+- Carpentries workshop, University of Arizona, February 2019, [workshop page](https://ua-carpentries-workshops.github.io/2019-02-23-Tucson/)
+- Carpentries workshop, University of Florida, October 2018, [workshop page](https://uf-carpentry.github.io/2018-10-23-ufii-geospatial/)
+- Carpentries workshop, University of Florida, August 2018, [workshop page](https://picardis.github.io/2018-08-15-ufii/)
+- Carpentries workshop, University of Florida, March 2018, [workshop page](https://uf-carpentry.github.io/2018-03-20-UFDataSymposium/)
+- Carpentries workshop, University of Florida, January 2018, [workshop page](https://uf-carpentry.github.io/2018-01-22-UFII/)
+- Data Carpentries for Biologists course, University of Florida, August 2017 - December 2017, [course website](https://datacarpentry.github.io/semester-biology/)
+- Carpentries workshop, Lawrence Berkeley National Laboratory, August 2017, [workshop page](https://kristinariemer.github.io/2017-08-01-berkeleylab/)
+- Carpentries workshop, Columbia University, September 2016, [workshop page](https://columbia-swc.github.io/2016-09-01-cu-r/)
+- Carpentries workshop, University of Florida, August 2016, [workshop page](https://acislab.github.io/2016-08-17-UF-Informatics-Institute/)
+- Carpentries workshop, University of North Carolina-Chapel Hill, April 2016, [workshop page](http://kcranston.github.io/2016-04-11-UNC/)

@@ -1,12 +1,12 @@
 ---
-title: "Hello!"
+title: "Making better research software"
 about: 
   template: trestles
-  image: headshot.jpg
+  image: headshot.png
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/KristinaRiemer
+    - icon: mastodon
+      text: Mastodon
+      href: https://fosstodon.org/@KristinaRiemer
     - icon: github
       text: Github
       href: https://github.com/KristinaRiemer
@@ -15,16 +15,26 @@ about:
       url: "mailto:kristina.p.riemer@gmail.com"
 ---
 
-Kristina Riemer is a data scientist, educator, and ecologist. She combines these roles to enable scientific researchers to do their science easier, faster, and more accurately. Kristina also likes to trail run, read fantasy novels, and go to rock shows. 
+Kristina Riemer is a **data scientist, educator, and ecologist**. She combines these roles to help researchers do their work easier, faster, and more accurately. 
+
+Kristina has extensive experience **facilitating interdisciplinary collaborations** between domain experts and tech folks. Her abilities to build community among people is demonstrated by her event planning and outreach skills. She considers herself a **people connector**, which is a crucial role in STEM. 
+
+Kristina's current expertise and role are built from a strong foundation in **using and teaching computational tools**, especially R and git/GitHub. She is excellent at quickly learning new technical skills as needed, and strives to be open-minded, curious, and aware of the impacts of new technologies. 
+
+She is additionally adept at **managing a team**, currently of research software engineers. She has implemented successful project planning processes with GitHub project boards and collaborator check-in meetings. She manages the day-to-day work of the group with an agile approach. She also sustains the group with grant funding from various sources and manages the budget effectively. 
+
+View Kristina's [resume](riemer_resume.pdf) for more details. 
 
 ## Experience
 
-**Scientific Programmer** | University of Arizona, CCT Data Science Team | January 2019 - present
+**Director of Data Science** | University of Arizona, Communications & Cyber Technologies Data Science Team | January 2023 - present
+
+**Scientific Programmer** | University of Arizona, CCT Data Science Team | January 2019 - January 2023
 
 ## Education
 
-University of Florida | Gainesville, FL
-PhD in Wildlife, Ecology, and Conservation | 2013 - 2019
+University of Florida | Gainesville, FL  
+PhD in Wildlife, Ecology, & Conservation | 2013 - 2019
 
-Lawrence University | Appleton, WI
+Lawrence University | Appleton, WI  
 B.A. in Biology | 2008 - 2012

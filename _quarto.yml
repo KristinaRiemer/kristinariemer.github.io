@@ -10,12 +10,13 @@ website:
         text: About
       - projects.qmd
       - teaching.qmd
+      - community.qmd
 
 format:
   html:
     theme: minty
     css: styles.css
-    toc: true
+    toc: false
 
 
 
